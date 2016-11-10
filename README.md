@@ -52,9 +52,9 @@ Take a look at the [Quill website](https://quilljs.com/) for more documentation,
 
 
 ## Download
-
 - [npm](https://www.npmjs.com/package/quill) - `npm install quill`
 - tar - https://github.com/quilljs/quill/releases
+- bower  - bower install quill
 
 
 ### CDN
